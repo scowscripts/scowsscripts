@@ -1,0 +1,9 @@
+FAQ's:
+Q: Why does the game crash the minute I leave the lobby to join the actual game?
+A: It is because you executed the script inside of the lobby.
+
+Q: Why do I get kicked every time I place the tower?
+A: It is because you don't officially have it in your loadout. (And if you're trying to simulate a tower you have in your loadout), it also may be because you don't have enough money for the tower.
+
+Q: Why doesn't the tower spawn?
+A: It is because you didn't type in the name of the Tower or Skin correctly. The correct way, for example is "Gladiator", not "gladiator." It also may be because you didn't type in the name correctly. It may also be because you didn't hit "Enter" in the textbox you were typing in.
